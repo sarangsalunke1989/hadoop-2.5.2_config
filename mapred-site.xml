@@ -1,6 +1,7 @@
-
 <?xml version="1.0"?>
+
 <?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
 <!--
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -16,6 +17,7 @@
 -->
 
 <!-- Put site-specific property overrides in this file. -->
+
 
 <configuration>
 <property>
